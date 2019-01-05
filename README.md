@@ -1,7 +1,7 @@
 <p align="center"> Welcome to My GitHub Portfolio Page </p>
 
 # Profile
-I am a fresh graduate with a Bachelor's Degree in Computer Science. My passions are in programming in various programming languages (PHP, Java, Python) and data science. 
+I am [Lia Ristiana](https://github.com/catris25), a fresh graduate with a Bachelor's Degree in Computer Science. My passions are in programming in various programming languages (PHP, Java, Python) and data science. 
 
 # Skills
 ### Programming Languages
@@ -64,8 +64,11 @@ This project was done for my undergraduate thesis. Using the data from [here](ht
 
 [Link to Source Code on Github](https://github.com/catris25/review_rating_prediction)
 
+#### Other
+For other projects, please refer to my [Github account](https://github.com/catris25).
+
+I also just started dabbling around on Kaggle, so check out [my work on Kaggle here](https://www.kaggle.com/catris25).
 
 # Contact Me
 Check out my [About Me](https://about.me/lia.ristiana) for more information about me and my other social media contacts.
 
-I also just started dabbling around on Kaggle, so check out [my work on Kaggle here](https://www.kaggle.com/catris25).
